@@ -1,4 +1,5 @@
 # ECON 390 Final Project: Housing Investment Profitability
+Final Grade: 80%
 
 ## Overview
 This project analyzes whether purchasing a home for the purposes of renting out is generally profitable. By performing a regression analysis on variables such as mortgage rates, median house price, and rent yield, we explore how these factors influence the number of units sold.
